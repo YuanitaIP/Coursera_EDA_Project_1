@@ -1,5 +1,5 @@
 # Coursera Exploratory Data Analysis Project 1
-This repository is course project for Coursera Exploratory Data Analysis Week 1.The purpose of this project is to making 4 plots as given. It will be graded by peers on a series of yes/no questions related to the project. 
+This particular repository is course project for Coursera Exploratory Data Analysis Week 1.The purpose of this project is to making 4 plots as given. It will be graded by peers on a series of yes/no questions related to the project. 
 
 This is more details about this projects : https://github.com/rdpeng/ExData_Plotting1
 
